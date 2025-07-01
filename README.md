@@ -40,8 +40,12 @@ This project is licensed under the MIT License — free and open for all.
 
 ---
 
+
 ## 🇸🇦 النسخة العربية
-كون ان الملفات عددها كثير لم يسمح موقع جيت هاب برفعها فقمنا برعها على مواقع خارجية ستجد روابط التحمي فى الاسفل 
+![qrcoder](https://github.com/user-attachments/assets/c5511dbe-6432-48fe-92c2-38c1fae852e5)
+كون ان الملفات عددها كثير لم يسمح موقع جيت هاب برفعها فقمنا برعها على مواقع خارجية ستجد روابط تحميل التطبيقات فى الاسفل اما رابط تحميل المشروع من هنا 
+https://top4top.io/downloadf-3469qaofa1-zip.html
+
 
 ### نظرة عامة
 
@@ -74,6 +78,7 @@ This project is licensed under the MIT License — free and open for all.
 
 📦 **Android App Included**  حمل تطبيق الاندريد من هذا الرابط 
 https://top4top.io/downloadf-3458d6llt1-zip.html
+
 ![hkjhkjk](https://github.com/user-attachments/assets/42afcf4d-d006-4934-8a6d-2e2556a0410d)
 
 🕐 **Other platforms coming soon...**
