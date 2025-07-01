@@ -1,4 +1,5 @@
 # PHP-Arabic-Documentation-
+![تنزيل (25)](https://github.com/user-attachments/assets/1c4c4033-377a-483e-b0ee-ce8b0f4d996a)
 
 تعريب ملفات المساعدة للغة php بالكامل مع توفير تطبيقات لتشغيلها من انظمة التشغيل مباشرتا
 # PHP Arabic Documentation 🇸🇦
@@ -6,7 +7,8 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Win%20%7C%20Linux%20%7C%20iOS%20%7C%20macOS-lightgrey)
 
----![تنزيل (25)](https://github.com/user-attachments/assets/28c194e5-e526-4d65-94cf-a6879d22acd5)
+
+
 
 
 ## 🇬🇧 English Version
@@ -39,8 +41,10 @@ This project is licensed under the MIT License — free and open for all.
 ---
 
 ## 🇸🇦 النسخة العربية
+كون ان الملفات عددها كثير لم يسمح موقع جيت هاب برفعها فقمنا برعها على مواقع خارجية ستجد روابط التحمي فى الاسفل 
 
 ### نظرة عامة
+
 
 مشروع ضخم وطموح لتوثيق لغة PHP باللغة العربية، بتعريب ذكي ودقيق، **يتجاوز الترجمة الحرفية أو الكود فقط**.
 
@@ -56,6 +60,7 @@ This project is licensed under the MIT License — free and open for all.
 - جعل لغة PHP مفهومة وسهلة لكل مبرمج عربي.
 - تقديم شروحات مبسطة وواضحة بعيدًا عن التعقيد أو الترجمة الآلية.
 - بناء مرجع معرفي مفتوح يخدم مجتمع البرمجة العربي.
+- 
 
 ### المساهمة
 
@@ -67,7 +72,10 @@ This project is licensed under the MIT License — free and open for all.
 
 ---
 
-📦 **Android App Included**  
+📦 **Android App Included**  حمل تطبيق الاندريد من هذا الرابط 
+https://top4top.io/downloadf-3458d6llt1-zip.html
+![hkjhkjk](https://github.com/user-attachments/assets/42afcf4d-d006-4934-8a6d-2e2556a0410d)
+
 🕐 **Other platforms coming soon...**
 
 
