@@ -1,4 +1,4 @@
-# PHP-Arabic-Documentation-
+# PHP Arabic Documentation-
 ![تنزيل (25)](https://github.com/user-attachments/assets/1c4c4033-377a-483e-b0ee-ce8b0f4d996a)
 
 تعريب ملفات المساعدة للغة php بالكامل مع توفير تطبيقات لتشغيلها من انظمة التشغيل مباشرتا
